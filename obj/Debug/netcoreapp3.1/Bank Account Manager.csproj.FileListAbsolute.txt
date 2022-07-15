@@ -1,0 +1,16 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\bin\Debug\netcoreapp3.1\Bank Account Manager.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\bin\Debug\netcoreapp3.1\Bank Account Manager.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\bin\Debug\netcoreapp3.1\Bank Account Manager.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\bin\Debug\netcoreapp3.1\Bank Account Manager.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\bin\Debug\netcoreapp3.1\Bank Account Manager.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\bin\Debug\netcoreapp3.1\Bank Account Manager.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank_Account_Manager.Form1.resources
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.csproj.GenerateResource.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit J\Bank Account Manager\obj\Debug\netcoreapp3.1\Bank Account Manager.genruntimeconfig.cache

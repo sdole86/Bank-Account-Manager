@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7vfTBnBa+SxbfEBNrT0u1a6Io1VG9rcQ0ZidkXJw8dThTxTWWjU536umifIkZOKbk0Zm7h97HkkH71gPgA/Eg==",
+  "success": true,
+  "projectFilePath": "P:\\School\\2021-03 Fall\\CSCI 1630 - Introduction to C# Programming\\Unit J\\Bank Account Manager\\Bank Account Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dole05\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
